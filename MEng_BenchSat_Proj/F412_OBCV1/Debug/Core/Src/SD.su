@@ -1,0 +1,7 @@
+../Core/Src/SD.c:15:9:SD_Init	32	static
+../Core/Src/SD.c:33:9:SD_Mount	4168	static
+../Core/Src/SD.c:42:9:SD_Dismount	16	static
+../Core/Src/SD.c:53:9:SD_writeNew	24	static
+../Core/Src/SD.c:70:9:SD_append	24	static
+../Core/Src/SD.c:86:9:SD_readAll	24	static
+../Core/Src/SD.c:114:6:SD_GetSpace	24	static

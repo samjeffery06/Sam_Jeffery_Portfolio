@@ -1,0 +1,8 @@
+../Core/Src/ISM330.c:19:9:ISM330_Initialise	24	static
+../Core/Src/ISM330.c:141:19:ISM330_ReadTemperature	24	static
+../Core/Src/ISM330.c:165:19:ISM330_ReadGyro	24	static
+../Core/Src/ISM330.c:198:19:ISM330_ReadAcc	24	static
+../Core/Src/ISM330.c:290:19:ISM330_WriteRegister	40	static
+../Core/Src/ISM330.c:295:19:ISM330_WriteRegisters	40	static
+../Core/Src/ISM330.c:300:19:ISM330_ReadRegister	40	static
+../Core/Src/ISM330.c:305:19:ISM330_ReadRegisters	40	static

@@ -1,0 +1,8 @@
+../Core/Src/switch.c:15:9:SWITCH_Initialise	16	static
+../Core/Src/switch.c:33:6:SWITCH_SetCH1	16	static
+../Core/Src/switch.c:43:6:SWITCH_Clear	16	static
+../Core/Src/switch.c:53:6:SWITCH_SetALL	16	static
+../Core/Src/switch.c:66:6:SWITCH_setPins	16	static
+../Core/Src/switch.c:77:6:SWITCH_SetSpecific	16	static
+../Core/Src/switch.c:96:6:SWITCH_updatePins	24	static
+../Core/Src/switch.c:118:6:SWITCH_ON_OFF	16	static

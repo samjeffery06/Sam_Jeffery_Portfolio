@@ -1,0 +1,8 @@
+../Core/Src/solenoid.c:15:9:Solenoid_Move_Start	16	static
+../Core/Src/solenoid.c:32:6:Process_Solenoid	16	static
+../Core/Src/solenoid.c:50:9:Solenoid_Set_Pins	16	static
+../Core/Src/solenoid.c:76:6:Solenoid_Reset_Pins	8	static
+../Core/Src/solenoid.c:88:6:Solenoid_Translate_Forward	24	static
+../Core/Src/solenoid.c:99:6:Solenoid_Translate_Backward	24	static
+../Core/Src/solenoid.c:110:6:Solenoid_Rot_CLOCK	24	static
+../Core/Src/solenoid.c:121:6:Solenoid_Rot_ANTI	24	static

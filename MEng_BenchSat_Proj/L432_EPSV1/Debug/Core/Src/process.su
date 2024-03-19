@@ -1,0 +1,4 @@
+../Core/Src/process.c:21:6:EPS_PROCESS	32	static
+../Core/Src/process.c:85:6:EPS_Power_Test	40	static
+../Core/Src/process.c:109:6:EPS_SYS_CURR_Test	24	static
+../Core/Src/process.c:123:6:EPS_SYS_CURR_SEND	32	static

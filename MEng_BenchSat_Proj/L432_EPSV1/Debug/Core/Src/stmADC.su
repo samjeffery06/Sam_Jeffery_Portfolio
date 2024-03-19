@@ -1,0 +1,11 @@
+../Core/Src/stmADC.c:15:6:ADC_Initialise	16	static
+../Core/Src/stmADC.c:30:6:ADC_GetALL	16	static
+../Core/Src/stmADC.c:38:6:ADC_GetTemp	16	static
+../Core/Src/stmADC.c:49:6:ADC_GetVBat	16	static
+../Core/Src/stmADC.c:59:6:ADC_Get5V	16	static
+../Core/Src/stmADC.c:69:6:ADC_Get3V3	16	static
+../Core/Src/stmADC.c:83:9:ADC_Select_CHTemp	40	static
+../Core/Src/stmADC.c:99:9:ADC_Select_3V3	40	static
+../Core/Src/stmADC.c:115:9:ADC_Select_VBat	40	static
+../Core/Src/stmADC.c:131:9:ADC_Select_5V	40	static
+../Core/Src/stmADC.c:151:6:ADC_DisplayReadings	72	static

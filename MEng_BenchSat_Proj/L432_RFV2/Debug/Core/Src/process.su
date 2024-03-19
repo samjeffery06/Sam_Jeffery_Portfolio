@@ -1,0 +1,5 @@
+../Core/Src/process.c:20:6:RF_PROCESS	32	static
+../Core/Src/process.c:124:6:CAN_PROCESS	32	static
+../Core/Src/process.c:184:6:RF_TRANSMIT_ACK	24	static
+../Core/Src/process.c:196:6:RF_TRANSMIT_TEL	64	static
+../Core/Src/process.c:346:6:PROCESS_TEL_UNIT	16	static

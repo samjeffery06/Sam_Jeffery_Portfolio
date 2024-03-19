@@ -1,0 +1,10 @@
+../Core/Src/CAN.c:18:9:CAN_Initialise	72	static
+../Core/Src/CAN.c:69:9:CAN_UpdateFilter	64	static
+../Core/Src/CAN.c:92:11:CAN_setID	24	static
+../Core/Src/CAN.c:105:9:CAN_Transmit	32	static
+../Core/Src/CAN.c:171:19:CAN_Receive	24	static
+../Core/Src/CAN.c:233:9:CAN_Fragment	32	static
+../Core/Src/CAN.c:266:6:CAN_CLEAR	16	static
+../Core/Src/CAN.c:279:6:CAN_Flash_Init	32	static
+../Core/Src/CAN.c:324:6:CAN_Flash_Loop	32	static
+../Core/Src/CAN.c:345:6:CAN_UNIT_Process	120	static

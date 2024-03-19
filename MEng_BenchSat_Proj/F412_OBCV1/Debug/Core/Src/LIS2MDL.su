@@ -1,0 +1,15 @@
+../Core/Src/LIS2MDL.c:18:9:LIS2MDL_Initialise	32	static
+../Core/Src/LIS2MDL.c:124:19:LIS2MDL_ReadTemperature	24	static
+../Core/Src/LIS2MDL.c:137:19:LIS2MDL_ReadCompass	32	static
+../Core/Src/LIS2MDL.c:157:19:LIS2MDL_GetData	24	static
+../Core/Src/LIS2MDL.c:186:19:LIS2MDL_SetOffsets	24	static
+../Core/Src/LIS2MDL.c:198:19:LIS2MDL_CalibrateCompass	24	static
+../Core/Src/LIS2MDL.c:249:6:LIS2MDL_SetRefHeading	16	static
+../Core/Src/LIS2MDL.c:255:6:LIS2MDL_SETUP	16	static
+../Core/Src/LIS2MDL.c:278:6:LIS2MDL_PrintHeading	40	static
+../Core/Src/LIS2MDL.c:303:6:LIS2MDL_UART_VALUES	32	static
+../Core/Src/LIS2MDL.c:324:9:LIS2MDL_SELF_TEST	40	static
+../Core/Src/LIS2MDL.c:454:19:LIS2MDL_WriteRegister	40	static
+../Core/Src/LIS2MDL.c:459:19:LIS2MDL_WriteRegisters	40	static
+../Core/Src/LIS2MDL.c:464:19:LIS2MDL_ReadRegister	40	static
+../Core/Src/LIS2MDL.c:469:19:LIS2MDL_ReadRegisters	40	static

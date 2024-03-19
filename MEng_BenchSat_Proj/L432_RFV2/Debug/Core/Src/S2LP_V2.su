@@ -1,0 +1,15 @@
+../Core/Src/S2LP_V2.c:16:9:S2LP_Initialise	32	static
+../Core/Src/S2LP_V2.c:157:9:S2LP_TransmitMessage	24	static
+../Core/Src/S2LP_V2.c:190:9:S2LP_AX25Packet	40	static
+../Core/Src/S2LP_V2.c:262:9:S2LP_SetMsgLen	16	static
+../Core/Src/S2LP_V2.c:270:9:S2LP_SetBaudRate	24	static
+../Core/Src/S2LP_V2.c:331:9:S2LP_SetFDev	24	static
+../Core/Src/S2LP_V2.c:356:9:S2LP_SetFreq	24	static
+../Core/Src/S2LP_V2.c:374:10:S2LP_MAXTransmitSpeed	56	dynamic
+../Core/Src/S2LP_V2.c:396:9:S2LP_TransmitIncreasing	48	static
+../Core/Src/S2LP_V2.c:413:9:S2LP_TI_2BR	16	static
+../Core/Src/S2LP_V2.c:424:6:S2LP_TransmitTest	72	static
+../Core/Src/S2LP_V2.c:452:6:S2LP_update_crc	16	static
+../Core/Src/S2LP_V2.c:461:19:S2LP_Command	32	static
+../Core/Src/S2LP_V2.c:472:19:S2LP_Read	40	static
+../Core/Src/S2LP_V2.c:484:19:S2LP_Write	40	static

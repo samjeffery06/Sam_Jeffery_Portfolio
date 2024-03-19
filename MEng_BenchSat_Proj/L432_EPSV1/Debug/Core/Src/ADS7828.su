@@ -1,0 +1,6 @@
+../Core/Src/ADS7828.c:15:6:ADS7828_Initialise	16	static
+../Core/Src/ADS7828.c:29:9:ADS7828_readSelected	24	static
+../Core/Src/ADS7828.c:52:9:ADS7828_readADC	24	static
+../Core/Src/ADS7828.c:76:9:ADS7828_convertRaw	24	static
+../Core/Src/ADS7828.c:86:19:ADS7828_WriteRegister	24	static
+../Core/Src/ADS7828.c:91:19:ADS7828_ReadRegister	24	static

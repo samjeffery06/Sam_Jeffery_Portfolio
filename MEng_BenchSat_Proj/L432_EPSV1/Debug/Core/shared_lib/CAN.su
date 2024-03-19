@@ -1,0 +1,11 @@
+../Core/shared_lib/CAN.c:18:9:CAN_Initialise	72	static
+../Core/shared_lib/CAN.c:68:9:CAN_UpdateFilter	64	static
+../Core/shared_lib/CAN.c:91:11:CAN_setID	24	static
+../Core/shared_lib/CAN.c:104:9:CAN_Transmit	32	static
+../Core/shared_lib/CAN.c:172:19:CAN_Receive	24	static
+../Core/shared_lib/CAN.c:234:6:SEND_ACKNACK	24	static
+../Core/shared_lib/CAN.c:255:9:CAN_Fragment	32	static
+../Core/shared_lib/CAN.c:288:6:CAN_CLEAR	16	static
+../Core/shared_lib/CAN.c:303:6:CAN_Flash_Init	32	static
+../Core/shared_lib/CAN.c:348:6:CAN_Flash_Loop	32	static
+../Core/shared_lib/CAN.c:369:6:CAN_UNIT_Process	120	static

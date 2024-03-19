@@ -1,0 +1,16 @@
+../Core/Src/process.c:22:9:Process_CAN_INBOX	88	static
+../Core/Src/process.c:52:6:Process_CAN_TX	16	static
+../Core/Src/process.c:61:6:Process_DIR_GS	32	static
+../Core/Src/process.c:67:6:Process_EPS_SWITCHES	24	static
+../Core/Src/process.c:78:6:Process_TELEMETRY_REQ	32	static
+../Core/Src/process.c:157:6:Process_TELEMETRY_RX	24	static
+../Core/Src/process.c:179:6:Process_BEACON	32	static
+../Core/Src/process.c:205:6:Process_OBC_Movement_Test	80	static
+../Core/Src/process.c:233:6:Process_OBC_Movement_Test_WRITE_DATA	168	static
+../Core/Src/process.c:259:6:Process_LIS2MDL_TEST	72	static
+../Core/Src/process.c:278:6:Process_LIS2MDL_RCS_SEND	32	static
+../Core/Src/process.c:296:6:Process_LIS2MDL_SD	56	static
+../Core/Src/process.c:311:6:Process_ISM330_ACC_TEST	16	static
+../Core/Src/process.c:318:6:Process_ISM330_ACC_SD	56	static
+../Core/Src/process.c:327:6:Process_ISM330_GYRO_TEST	16	static
+../Core/Src/process.c:333:6:Process_ISM330_GYRO_SD	56	static

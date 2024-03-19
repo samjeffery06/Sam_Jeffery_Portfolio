@@ -1,0 +1,12 @@
+../Core/Src/HX1.c:14:6:HX1_Initialise	24	static
+../Core/Src/HX1.c:37:6:HX1_UARTGS	16	static
+../Core/Src/HX1.c:66:19:HX1_PROCESS	16	static
+../Core/Src/HX1.c:83:19:HX1_UARTRX	16	static
+../Core/Src/HX1.c:105:19:HX1_RequestTelemetry	24	static
+../Core/Src/HX1.c:114:19:HX1_SendDirect	16	static
+../Core/Src/HX1.c:123:19:HX1_SendMessage	24	static
+../Core/Src/HX1.c:134:6:startMessage	16	static
+../Core/Src/HX1.c:161:6:endMessage	24	static
+../Core/Src/HX1.c:173:6:addString	32	static
+../Core/Src/HX1.c:186:6:HX1_TransmitIncreasing	56	static
+../Core/Src/HX1.c:198:6:HX1_ALL_TEL_REQ	24	static

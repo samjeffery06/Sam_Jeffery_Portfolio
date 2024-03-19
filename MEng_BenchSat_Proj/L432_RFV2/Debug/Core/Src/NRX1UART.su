@@ -1,0 +1,4 @@
+../Core/Src/NRX1UART.c:16:6:NRX1_Initialise_UART	24	static
+../Core/Src/NRX1UART.c:34:6:NRX1_UARTInterruptRX	16	static
+../Core/Src/NRX1UART.c:74:6:getRSSI_UART	16	static
+../Core/Src/NRX1UART.c:89:6:NRX1_UART_MSG_OUTPUT	48	static
